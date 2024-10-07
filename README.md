@@ -1,1 +1,3 @@
-# Msc_Thesis_Work
+# Msc Thesis Work
+
+Trying to have a clean semi-organized repo with plots and results
